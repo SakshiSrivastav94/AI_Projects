@@ -1,0 +1,9 @@
+If you're looking to learn about the box model in CSS within this course, let me help you.
+
+The concept of the box model is taught in multiple videos, but the most detailed explanation is found in video 18. 
+
+Firstly, you'll need to understand what the box model is in general terms which starts from around 10 seconds into the video (video number 18). Then, towards the beginning, you can see an overview of how it works (from 0 seconds to about 4 seconds). The actual teaching begins after that.
+
+The next part of the explanation for the details of box model is found towards the start of the video at around 109 seconds and also towards the middle of the video (around 315 seconds).
+
+So, if you want a comprehensive understanding of how the CSS box model works, you can watch video number 18 from approximately 10 seconds onwards.
