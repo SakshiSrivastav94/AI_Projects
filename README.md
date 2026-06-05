@@ -26,6 +26,7 @@ Click the Colab icon to open the notebooks.
 
 ## About
 Created and maintained by **Sakshi Srivastav**
+
 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/sakshisrivastavofficial/) |
 [GitHub](https://github.com/SakshiSrivastav94) |
