@@ -9,8 +9,7 @@ Click the Colab icon to open the notebooks.
 | # | Category | Project | Open in Colab / GitHub |
 |---|----------|----------|------------------------|
 | 1 | Machine Learning | Titanic Survival Analysis (EDA) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kFS9F2yK8ofZHDtYkGAsj-dqC35JPlUX) |
-| 2 | Machine Learning | Salary Predection | [![GitHub](https://img.shields.io/badge/View-GitHub-black?logo=github)]
-(https://github.com/SakshiSrivastav94/Salary-Predection) |
+| 2 | Machine Learning | Salary Predection | [![GitHub](https://img.shields.io/badge/View-GitHub-black?logo=github)](https://github.com/SakshiSrivastav94/Salary-Predection) |
 | 3 | Machine Learning | Heart Disease Predictor | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XoPpy18HHKWS4FasbP5XVjTLoV3wxwT2) |
 | 4 | Deep Learning | Fashion-MNIST Classification | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12rGg2YLmQCC5XoIVrF6kNwNnHxUd397y) |
 | 5 | Generative AI | RAG-Based AI Teaching Assistant | [![GitHub](https://img.shields.io/badge/View-GitHub-black?logo=github)](https://github.com/SakshiSrivastav94/RAG-based-AI-Teaching-Assistent) |
